@@ -1,3 +1,9 @@
+# Install Dependencies
+
+npm i @tensorflow/tfjs @tensorflow-models/qna react-loader-spinner
+
+Bu kodu kullanarak ilk olarak tensorflow'u projemize dahil etmemiz gerekmektedir. Daha sonrasında tensorflow'u kullanabiliriz.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
